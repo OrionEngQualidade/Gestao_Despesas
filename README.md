@@ -122,4 +122,14 @@ Esse retorno elimina dúvidas, reduz contatos manuais e aumenta a **transparênc
 
 A implementação desta automação trouxe ganhos diretos e estruturais para o processo de Qualidade, incluindo:
 
-- Eliminação d
+- Eliminação de falhas recorrentes do fluxo anterior em **Power Automate**  
+- Maior **estabilidade e controle técnico**  
+- **Rastreabilidade completa** das solicitações e decisões  
+- **Padronização da comunicação institucional**  
+- Redução significativa de **retrabalho manual**  
+- Melhoria na **experiência do aprovador e do solicitante**  
+- Base técnica sólida para futuras evoluções, como:
+  - Novos níveis de aprovação  
+  - Dashboards de acompanhamento  
+  - Alertas automáticos por SLA  
+  - Integração com outros processos de Qualidade  
